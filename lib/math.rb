@@ -24,6 +24,5 @@ sum
 end
 
 def square_root(num)
-sum = **num
-sum
+Math.sqrt(num)
 end
